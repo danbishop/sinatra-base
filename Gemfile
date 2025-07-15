@@ -7,3 +7,5 @@ gem "bootstrap", "~> 5.3"
 gem "sinatra", "~> 3.1"
 
 gem "font-awesome-sass", "~> 6.4"
+
+gem "falcon", "~> 0.51.1"
